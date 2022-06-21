@@ -1,0 +1,5 @@
+<?php
+
+$parkingSystem = 0;
+
+?>
